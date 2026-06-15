@@ -6,22 +6,36 @@ The platform integrates real-time financial market data with advanced analytics 
 
 # Features
 📈 Real-time stock and crypto market analysis
+
 🤖 AI-based price forecasting (Random Forest & XGBoost)
+
 💼 Portfolio optimization using Sharpe Ratio
+
 📰 News sentiment analysis
+
 🔄 Strategy backtesting
+
 📊 Interactive visualizations
+
 📄 Downloadable reports
 
 # Technologies Used
 Python
+
 Streamlit
+
 Pandas
+
 NumPy
+
 Plotly
+
 Scikit-learn
+
 XGBoost
+
 Yahoo Finance API (yfinance)
+
 Disclaimer
 
 # Screenshots
